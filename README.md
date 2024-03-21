@@ -16,9 +16,9 @@ un estado de respuesta 404 junto con un mensaje JSON que indica que el recurso s
 
 El proyecto utiliza las siguientes tecnologías y técnicas:
 
-####Node.js
-####Express
-####JavaScript
-####fs (File System)
-####Path
-####Postman
+**Node.js**
+**Express
+JavaScript
+fs (File System)
+Path
+Postman**
